@@ -1,15 +1,15 @@
-<h1 align="center"> Inflex Music Bot <\> </h1>
+<h1 align="center"> ──「 ˹ᴧɴᴊᴧʟɪ˼ ꭙ ˹ᴍᴜsɪᴄ˼ 」── <\> </h1>
 
 <p align="center">
-  <img src="https://graph.org/file/9d75bfb77e17b80b3da5b.png" alt="Inflex Music Logo" width="640" height="360">
+  <img src="https://te.legra.ph/file/3e2dabed4c479e0842cdf.jpg" alt="Anjali Music Logo" width="640" height="360">
 </p>
 
 <p align="center">
-<a href="https://github.com/TeamInflex/InflexMusicBot/stargazers"><img src="https://img.shields.io/github/stars/TeamInflex/InflexMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/TeamInflex/InflexMusicBot/network/members"> <img src="https://img.shields.io/github/forks/TeamInflex/InflexMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/TeamInflex/InflexMusicBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/MAHTO-ANJALI/AnjaliMusicV02/stargazers"><img src="https://img.shields.io/github/stars/MAHTO-ANJALI/AnjaliMusicV02?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/MAHTO-ANJALI/AnjaliMusicV02/network/members"> <img src="https://img.shields.io/github/forks/MAHTO-ANJALI/AnjaliMusicV02?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/MAHTO-ANJALI/AnjaliMusicV02/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/TeamInflex/InflexMusicBot/commits/TeamInflex"> <img src="https://img.shields.io/github/last-commit/TeamInflex/InflexMusicBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/MAHTO-ANJALI/AnjaliMusicV02/commits/MAHTO-ANJALI"> <img src="https://img.shields.io/github/last-commit/MAHTO-ANJALI/AnjaliMusicV02?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 
@@ -57,7 +57,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/TeamInflex/InflexMusic && cd InflexMusic
+   git clone https://github.com/MAHTO-ANJALI/AnjaliMusicV02 && cd AnjaliMusicV02
    ```
 6. **Install Requirements**
    ```bash
@@ -99,19 +99,19 @@ The Inflex Music Bot Offers A Range Of Commands To Enhance Your Music Listening 
 | `/stop`                 | Stop The Bot And Clear The Queue.           |
 | `/queue`                | Display The List Of Songs In The Queue.     |
 
-For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/InflexMusicBot).
+For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/AnjaliMusicTwoBot).
 
 ---
 
 ### 🔄 Updates & Support
 
-Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
+Stay Updated With The Latest Features And Improvements To Anjali Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/InflexSupport">
+  <a href="https://telegram.me/ANJALIxWORLD">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/TeamInflex">
+  <a href="https://telegram.me/ANJALIxWORLD">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
@@ -122,7 +122,7 @@ Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
 
 We Welcome Contributions To The Inflex Music Bot Project. If You'd Like To Contribute, Please Follow These Steps :
 
-1. [Fork The Repository.](https://github.com/TeamInflex/InflexMusicBot/fork)
+1. [Fork The Repository.](https://github.com/MAHTO-ANJALI/AnjaliMusicV02/fork)
 2. Create A New Branch With A Meaningful Name.
 3. Make Your Changes And Commit Them With A Descriptive Commit Message.
 4. Open A Pull Request Against Our `main` Branch.
@@ -141,4 +141,4 @@ This project Is Licensed Under The MIT License. For More Details, See The [LICEN
 ### 🙏 Acknowledgements
 
 Special Thanks To All The Contributors , Supporters , And Users Of The Inflex Music Bot. Your Feedback And Support Keep Us Going !
-- [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) , [AviaxMusic](https://github.com/TeamAviax/AviaxMusic) And [AnonXMusic](https://github.com/AnonymousX1025/AnonXMusic) For Their Source Codes.
+- [Yukki Music](https://github.com/MAHTO-ANJALI/AnjaliMusicV02) , [AviaxMusic](https://github.com/MAHTO-ANJALI/AnjaliMusicV02) And [AnonXMusic]([https://github.com/MAHTO-ANJALI/AnjaliMusicV02](https://github.com/MAHTO-ANJALI/AnjaliMusicV02)https://github.com/MAHTO-ANJALI/AnjaliMusicV02) For Their Source Codes.

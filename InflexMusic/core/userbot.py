@@ -51,11 +51,11 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("InflexUpdates")
-                await self.one.join_chat("InflexSupport")
-                await self.one.join_chat("TeamInflex")
-                await self.one.join_chat("InflexStatus")
-                await self.one.join_chat("InflexBots")
+                await self.one.join_chat("ANJALIxWORLD")
+                await self.one.join_chat("ANJALIxWORLD")
+                await self.one.join_chat("ANJALIxWORLD")
+                await self.one.join_chat("ANJALIxWORLD")
+                await self.one.join_chat("ANJALIxWORLD")
             except:
                 pass
             assistants.append(1)
@@ -75,8 +75,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.one.join_chat("TeamInflex")
-                await self.one.join_chat("InflexSupport")
+                await self.one.join_chat("ANJALIxOFFICIAL")
+                await self.one.join_chat("AnjalixSupportxGroup")
             except:
                 pass
             assistants.append(2)
@@ -96,11 +96,11 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.one.join_chat("InflexUpdates")
-                await self.one.join_chat("InflexSupport")
-                await self.one.join_chat("TeamInflex")
-                await self.one.join_chat("InflexStatus")
-                await self.one.join_chat("InflexBots")
+                await self.one.join_chat("ANJALIxWORLD")
+                await self.one.join_chat("ANJALIxWORLD")
+                await self.one.join_chat("ANJALIxWORLD")
+                await self.one.join_chat("ANJALIxWORLD")
+                await self.one.join_chat("ANJALIxWORLD")
             except:
                 pass
             assistants.append(3)
@@ -120,11 +120,11 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.one.join_chat("InflexUpdates")
-                await self.one.join_chat("InflexSupport")
-                await self.one.join_chat("TeamInflex")
-                await self.one.join_chat("InflexStatus")
-                await self.one.join_chat("InflexBots")
+                await self.one.join_chat("ANJALIxWORLD")
+                await self.one.join_chat("ANJALIxWORLD")
+                await self.one.join_chat("ANJALIxWORLD")
+                await self.one.join_chat("ANJALIxWORLD")
+                await self.one.join_chat("ANJALIxWORLD")
             except:
                 pass
             assistants.append(4)
@@ -144,11 +144,11 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.one.join_chat("InflexUpdates")
-                await self.one.join_chat("InflexSupport")
-                await self.one.join_chat("TeamInflex")
-                await self.one.join_chat("InflexStatus")
-                await self.one.join_chat("InflexBots")
+                await self.one.join_chat("ANJALIxWORLD")
+                await self.one.join_chat("ANJALIxWORLD")
+                await self.one.join_chat("ANJALIxWORLD")
+                await self.one.join_chat("ANJALIxWORLD")
+                await self.one.join_chat("ANJALIxWORLD")
             except:
                 pass
             assistants.append(5)
